@@ -1,0 +1,10 @@
+body {
+    font-family: Arial, Helvetica, sans-serif, Geneva, Tahoma, sans-serif
+}
+
+.title {
+    background-color: yellowgreen;
+    color: rgb(236, 25, 131);
+    font-size: 30px;
+    text-align: center;
+}
